@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - Object 👂 heard 
+  - Object 🎓 known 
   - this
   - arrow function
   - async function
@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof 👂 heard 
+  - typeof 🎓 known 
   - destructuring
   - generator
   - iterator
@@ -41,42 +41,42 @@
   - Symbol 👂 heard 
   - Reflect
 - Statements
-  - if 🎓 known
-  - while 🎓 known
-  - do..while 👂 heard
-  - for 🎓 known
-  - for..in
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🎓 known
   - for..of
   - for await
   - throw
-  - break 👂 heard
+  - break 🎓 known
   - continue
   - import 🎓 known
   - export 🎓 known
   - label
   - try..catch
   - switch
-  - class
+  - class 👂 heard
   - new Error
   - with
 - Functions
   - function declaration 👂 heard
   - function expression
-  - return 👂 heard
+  - return  🎓 known
   - default parameters
   - functional object
 - Data structures
   - Array
   - mixin
   - extend
-  - typed arrays 👂 heard
+  - typed arrays 🎓 known
   - Map
   - Set
   - undefined
   - null 👂 heard
   - Proxy 👂 heard
   - weak collections
-  - timers
+  - timers 👂 heard
   - EventEmitter
   - RegExp
   - Date
