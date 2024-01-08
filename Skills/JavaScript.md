@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object 👂 heard 
   - this
   - arrow function
   - async function
   - call
   - bind
-  - apply
+  - apply 👂 heard 
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof 👂 heard 
   - destructuring
   - generator
   - iterator
@@ -22,7 +22,7 @@
   - IIFE
   - global
   - globalThis
-  - window
+  - window 👂 heard 
   - getters and setters
   - __proto__
   - prototype
@@ -30,29 +30,29 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void 👂 heard 
   - yield
   - await
   - template literal
   - strict mode
-  - delete
-  - in
+  - delete 👂 heard 
+  - in 👂 heard 
   - super
-  - Symbol
+  - Symbol 👂 heard 
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if 🎓 known
+  - while 🎓 known
+  - do..while 👂 heard
+  - for 🎓 known
   - for..in
   - for..of
   - for await
   - throw
-  - break
+  - break 👂 heard
   - continue
-  - import
-  - export
+  - import 🎓 known
+  - export 🎓 known
   - label
   - try..catch
   - switch
@@ -60,21 +60,21 @@
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration 👂 heard
   - function expression
-  - return
+  - return 👂 heard
   - default parameters
   - functional object
 - Data structures
   - Array
   - mixin
   - extend
-  - typed arrays
+  - typed arrays 👂 heard
   - Map
   - Set
   - undefined
-  - null
-  - Proxy
+  - null 👂 heard
+  - Proxy 👂 heard
   - weak collections
   - timers
   - EventEmitter

@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value 👂 heard
   - identifier
   - variable
-  - constant
-  - scalar
-  - literal
+  - constant 👂 heard
+  - scalar 👂 heard
+  - literal 👂 heard
   - expression
   - heap
   - function
-  - procedure
-  - method
+  - procedure 
+  - method 👂 heard
   - class
   - prototype
   - event
@@ -20,18 +20,18 @@
   - reference types
   - flag
   - lexical scope
-  - code block
+  - code block 👂 heard
   - conditions
   - loops
   - assignment
   - regular expression
-  - interface
+  - interface 👂 heard
   - contract
   - module
   - call stack
 - Functions
   - signature
-  - argument
+  - argument 👂 heard
   - parameter
   - pure function
   - lambda expression
@@ -41,7 +41,7 @@
   - curry
   - higher order
   - recursion
-  - callback
+  - callback 
   - listener
   - compose
   - pipe
@@ -53,25 +53,25 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array 👂 heard
+  - structure 👂 heard
   - record
   - enum
   - instance
-  - object
+  - object 👂 heard
   - class
-  - collection
+  - collection 👂 heard
   - set
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
+  - queue 👂 heard
   - stack
   - deque
   - tree
-  - graph
+  - graph 👂 heard
   - iterator
   - mutable state
   - immutable state
@@ -87,8 +87,8 @@
   - refactoring
   - code review
   - antipatterns
-  - paradigm
-  - algorithm
+  - paradigm 👂 heard
+  - algorithm 👂 heard
   - magic numbers
   - hardcode
   - complexity
