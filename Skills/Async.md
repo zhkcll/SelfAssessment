@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
+  - Event loop 👂 heard 
   - try..catch
   - Non-blocking
-  - Async I/O
+  - Async I/O 👂 heard 
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -16,13 +16,13 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 👂 heard 
+  - Parallel programming 👂 heard 
   - Actor Model
   - Thread
-  - Process
+  - Process 👂 heard 
 - Async contracts
-  - Callbacks
+  - Callbacks 👂 heard 
   - Callback-last-error-first
   - Thenable
   - Promise
@@ -32,11 +32,11 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 👂 heard 
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal 👂 heard 
+  - Stream 👂 heard 
   - Chain of responsibility
   - Middleware
   - Locks
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers 👂 heard 
   - setImmediate
   - nextTick
   - AbortController
