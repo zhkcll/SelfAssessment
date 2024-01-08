@@ -4,14 +4,14 @@
   - Procedural programming 👂 heard
   - Imperative programming 👂 heard
   - Structured programming 👂 heard
-  - Non-structured programming
+  - Non-structured programming 👂 heard
   - Functional programming 👂 heard
-  - Prototype-based programming
+  - Prototype-based programming 👂 heard
   - Object-oriented programming 👂 heard
   - Object-based programming 👂 heard
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming 👂 heard
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
@@ -34,7 +34,7 @@
   - Parent class
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface 👂 heard
   - Encapsulation
   - Hidden class
   - Object form
