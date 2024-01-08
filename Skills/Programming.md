@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 👂 heard
-  - identifier
+  - value 🎓 known
+  - identifier 🎓 known
   - variable
-  - constant 👂 heard
-  - scalar 👂 heard
-  - literal 👂 heard
+  - constant 🎓 known
+  - scalar 🎓 known
+  - literal 🎓 known
   - expression
   - heap
   - function
   - procedure 
-  - method 👂 heard
+  - method 🎓 known
   - class
   - prototype
   - event
@@ -55,7 +55,7 @@
 - Data structures
   - array 👂 heard
   - structure 👂 heard
-  - record
+  - record 👂 heard
   - enum
   - instance
   - object 👂 heard
@@ -68,7 +68,7 @@
   - unrolled list
   - circular list
   - queue 👂 heard
-  - stack
+  - stack 👂 heard
   - deque
   - tree
   - graph 👂 heard
@@ -78,29 +78,29 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler 👂 heard
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger 👂 heard
   - garbage collection
   - refactoring
-  - code review
+  - code review 👂 heard
   - antipatterns
   - paradigm 👂 heard
   - algorithm 👂 heard
   - magic numbers
-  - hardcode
+  - hardcode 👂 heard
   - complexity
   - decomposition
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 👂 heard
   - unreachable code
   - duplicate code
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git 👂 heard
+  - github 👂 heard
