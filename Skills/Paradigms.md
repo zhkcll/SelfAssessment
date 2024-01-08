@@ -1,14 +1,14 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming 👂 heard
+  - Imperative programming 👂 heard
+  - Structured programming 👂 heard
   - Non-structured programming
-  - Functional programming
+  - Functional programming 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Object-oriented programming 👂 heard
+  - Object-based programming 👂 heard
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
@@ -25,10 +25,10 @@
   - new
   - Static method
   - Method
-  - Async method
+  - Async method 👂 heard
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields 👂 heard
+  - Private fields 👂 heard
   - Field declarations
   - Inheritance
   - Parent class
@@ -49,7 +49,7 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy 👂 heard
   - Chain of Responsibility
   - Command
   - Iterator
