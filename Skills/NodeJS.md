@@ -86,19 +86,19 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) 🎓	known
   - TCP/SSL
-  - UDP
+  - UDP 🎓	known
   - TLS
   - Websocket
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 🎓	known
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS 🎓	known
+  - DDoS 🎓	known
   - XSS
   - Path traversal
   - CSRF
@@ -123,7 +123,7 @@
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console 🎓	known
   - Inspector
   - Reliability
   - Quality
@@ -131,7 +131,7 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository 🎓	known
   - Active record
   - Query builder
   - Object-Relational Mapping
