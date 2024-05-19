@@ -1,23 +1,23 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🎓 known
-  - identifier 🎓 known
-  - variable
-  - constant 🎓 known
-  - scalar 🎓 known
+  - value 🙋	explained
+  - identifier 🙋	explained
+  - variable 🙋	explained
+  - constant 🙋	explained
+  - scalar 🙋	explained
   - literal 🎓 known
   - expression
   - heap
-  - function
-  - procedure 
-  - method 🎓 known
-  - class
+  - function 🙋	explained
+  - procedure  🙋	explained
+  - method 🙋	explained
+  - class 🙋	explained
   - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
+  - event 🙋	explained
+  - type 🙋	explained
+  - primitive types  🎓	known
+  - reference types 🎓	known
   - flag
   - lexical scope
   - code block 👂 heard
@@ -25,14 +25,14 @@
   - loops
   - assignment
   - regular expression
-  - interface 👂 heard
+  - interface 🙋	explained
   - contract
-  - module
+  - module 🙋	explained
   - call stack
 - Functions
   - signature
-  - argument 👂 heard
-  - parameter
+  - argument 🙋	explained
+  - parameter 🙋	explained
   - pure function
   - lambda expression
   - side effects
